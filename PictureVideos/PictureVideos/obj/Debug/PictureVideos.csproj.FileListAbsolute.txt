@@ -1,0 +1,10 @@
+C:\Users\sarah\source\repos\PictureVideos\PictureVideos\bin\Debug\PictureVideos.exe.config
+C:\Users\sarah\source\repos\PictureVideos\PictureVideos\bin\Debug\PictureVideos.exe
+C:\Users\sarah\source\repos\PictureVideos\PictureVideos\bin\Debug\PictureVideos.pdb
+C:\Users\sarah\source\repos\PictureVideos\PictureVideos\obj\Debug\PictureVideos.csproj.AssemblyReference.cache
+C:\Users\sarah\source\repos\PictureVideos\PictureVideos\obj\Debug\PictureVideos.Form1.resources
+C:\Users\sarah\source\repos\PictureVideos\PictureVideos\obj\Debug\PictureVideos.Properties.Resources.resources
+C:\Users\sarah\source\repos\PictureVideos\PictureVideos\obj\Debug\PictureVideos.csproj.GenerateResource.cache
+C:\Users\sarah\source\repos\PictureVideos\PictureVideos\obj\Debug\PictureVideos.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\PictureVideos\PictureVideos\obj\Debug\PictureVideos.exe
+C:\Users\sarah\source\repos\PictureVideos\PictureVideos\obj\Debug\PictureVideos.pdb
